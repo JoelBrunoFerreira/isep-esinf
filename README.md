@@ -171,8 +171,8 @@ mvn test jacoco:report
 | **Dijkstra** — Caminho mais curto (fonte única) | Graphs | O(V²) |
 | **Floyd-Warshall** — Caminhos mínimos (todos os pares) | Graphs | O(V³) |
 | **Min-Heap** — Fila de Prioridade | Priority_Queue | O(log n) insert/remove |
-| **Recursão** — Labirinto com backtracking | Recursion | — |
-| **Recursão** — Algoritmos clássicos (MDC, palíndromo, etc.) | Recursion | — |
+| **Recursividade** — Labirinto com backtracking | Recursion | — |
+| **Recursividade** — Algoritmos clássicos (MDC, palíndromo, etc.) | Recursion | — |
 | **BST** — Árvore Binária de Pesquisa | Threes | O(h) médio |
 | **AVL** — Árvore Auto-Balanceada | Threes | O(log n) garantido |
 
